@@ -1,11 +1,3 @@
-# Snappy - Chat Application 
-Snappy is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
-
-
-![login page](./images/snappy_login.png)
-
-![home page](./images/snappy.png)
-
 ## Installation Guide
 
 ### Requirements
@@ -14,11 +6,6 @@ Snappy is chat application build with the power of MERN Stack. You can find the 
 
 Both should be installed and make sure mongodb is running.
 ### Installation
-
-#### First Method
-```shell
-git clone https://github.com/koolkishan/chat-app-react-nodejs
-cd chat-app-react-nodejs
 ```
 Now rename env files from .env.example to .env
 ```shell
@@ -54,7 +41,7 @@ yarn start
 ```
 Done! Now open localhost:3000 in your browser.
 
-#### Second Method
+#### Method
 - This method requires docker and docker-compose to be installed in your system.
 - Make sure you are in the root of your project and run the following command.
 
